@@ -1,5 +1,6 @@
 # md_test
 markdown testing
+This file links to [linktest.md](./linktest.md).
 
 ## RX-target-board-GCC
 
